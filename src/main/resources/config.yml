@@ -1,0 +1,16 @@
+quests:
+  kill:
+    quest1:
+      name: Zombieslayer
+      description: Kill a zombie
+      reward: 100
+      target:
+        type: ZOMBIE
+        count: 1
+    quest2:
+      name: Genocide
+      description: Kill 5 villagers
+      reward: 420
+      target:
+        type: VILLAGER
+        count: 5

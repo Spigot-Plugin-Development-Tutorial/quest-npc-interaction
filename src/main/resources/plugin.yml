@@ -1,0 +1,9 @@
+name: QuestNPC
+version: '${project.version}'
+main: me.kodysimpson.questnpc.QuestNPC
+api-version: 1.17
+depend:
+  - ProtocolLib
+commands:
+  questnpc:
+    description: I like trains
